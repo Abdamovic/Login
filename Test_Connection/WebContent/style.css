@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body{
+	background-color:blue;
+}
+
+.jumbotron{
+	position:absolute;
+	top:20vh;
+}
+h1{
+	text-align:center;
+}
+.design{
+	border-radius:10px;
+}
